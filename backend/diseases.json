@@ -1,0 +1,292 @@
+{
+  "diseases": [
+    {
+      "name": "Malaria",
+      "symptoms": ["fever", "chills", "sweating", "headache", "nausea", "vomiting", "joint pain"],
+      "treatments": ["Artemisinin-based combination therapy (ACT)", "Paracetamol for fever", "Rest", "Fluids"],
+      "explanation": "Malaria is likely because the patient has fever, chills, and joint pain, which are common malaria symptoms."
+    },
+    {
+      "name": "Typhoid",
+      "symptoms": ["fever", "weakness", "stomach pain", "headache", "loss of appetite", "rash"],
+      "treatments": ["Ciprofloxacin or Azithromycin", "Hydration", "Rest"],
+      "explanation": "Typhoid is suspected due to prolonged fever, stomach pain, and rash."
+    },
+    {
+      "name": "Pneumonia",
+      "symptoms": ["fever", "cough", "shortness of breath", "chest pain", "fatigue", "chills"],
+      "treatments": ["Antibiotics if bacterial", "Oxygen therapy if needed", "Fluids", "Rest"],
+      "explanation": "Pneumonia is indicated by cough, fever, chest pain, and difficulty breathing."
+    },
+    {
+      "name": "Common Cold",
+      "symptoms": ["sneezing", "runny nose", "cough", "sore throat", "mild fever", "fatigue"],
+      "treatments": ["Rest", "Fluids", "Paracetamol for fever", "Cough syrup if needed"],
+      "explanation": "Common cold is likely due to sneezing, cough, and sore throat."
+    },
+    {
+      "name": "Dengue",
+      "symptoms": ["high fever", "severe headache", "pain behind eyes", "joint and muscle pain", "rash", "nausea"],
+      "treatments": ["Paracetamol for fever", "Fluids", "Rest", "Medical supervision for warning signs"],
+      "explanation": "Dengue is suspected because of high fever, headache, and joint pain."
+    },
+    {
+      "name": "Chickenpox",
+      "symptoms": ["fever", "rash", "itching", "fatigue", "loss of appetite"],
+      "treatments": ["Antihistamines for itching", "Paracetamol for fever", "Rest", "Fluids"],
+      "explanation": "Chickenpox is likely due to fever and the characteristic itchy rash."
+    },
+    {
+      "name": "Measles",
+      "symptoms": ["high fever", "cough", "runny nose", "red eyes", "rash"],
+      "treatments": ["Vitamin A supplements", "Fluids", "Rest", "Paracetamol for fever"],
+      "explanation": "Measles is suspected because of high fever, rash, and respiratory symptoms."
+    },
+    {
+      "name": "Hepatitis A",
+      "symptoms": ["fever", "fatigue", "loss of appetite", "nausea", "jaundice", "abdominal pain"],
+      "treatments": ["Rest", "Hydration", "Avoid alcohol", "Supportive care"],
+      "explanation": "Hepatitis A is likely due to jaundice, fatigue, and gastrointestinal symptoms."
+    },
+    {
+      "name": "Hepatitis B",
+      "symptoms": ["fatigue", "joint pain", "loss of appetite", "jaundice", "abdominal discomfort"],
+      "treatments": ["Antiviral therapy", "Rest", "Healthy diet", "Avoid alcohol"],
+      "explanation": "Hepatitis B is suspected due to jaundice, fatigue, and liver-related symptoms."
+    },
+    {
+      "name": "Urinary Tract Infection",
+      "symptoms": ["painful urination", "frequent urination", "lower abdominal pain", "fever", "cloudy urine"],
+      "treatments": ["Antibiotics", "Increased fluid intake", "Pain relievers"],
+      "explanation": "UTI is likely due to burning sensation while urinating and frequent urination."
+    },
+    {
+      "name": "Influenza",
+      "symptoms": ["fever", "chills", "body aches", "cough", "sore throat", "fatigue", "runny nose"],
+      "treatments": ["Rest", "Fluids", "Paracetamol", "Antiviral medication if early"],
+      "explanation": "Influenza is likely due to fever, cough, body aches, and fatigue."
+    },
+    {
+      "name": "Tuberculosis",
+      "symptoms": ["persistent cough", "night sweats", "weight loss", "fatigue", "fever", "coughing blood"],
+      "treatments": ["Combination antibiotic therapy for 6-9 months", "Rest", "Good nutrition"],
+      "explanation": "TB is suspected due to chronic cough, night sweats, and weight loss."
+    },
+    {
+      "name": "Cholera",
+      "symptoms": ["severe diarrhea", "vomiting", "dehydration", "muscle cramps", "low blood pressure"],
+      "treatments": ["Oral rehydration salts", "Intravenous fluids", "Antibiotics in severe cases"],
+      "explanation": "Cholera is indicated by severe diarrhea and dehydration."
+    },
+    {
+      "name": "Food Poisoning",
+      "symptoms": ["nausea", "vomiting", "diarrhea", "abdominal cramps", "fever"],
+      "treatments": ["Hydration", "Rest", "Antiemetics for vomiting"],
+      "explanation": "Food poisoning is suspected due to sudden onset nausea, vomiting, and diarrhea."
+    },
+    {
+      "name": "Mumps",
+      "symptoms": ["swelling of salivary glands", "fever", "headache", "muscle aches", "fatigue"],
+      "treatments": ["Rest", "Fluids", "Pain relievers", "Cold compress for swelling"],
+      "explanation": "Mumps is likely due to swollen salivary glands and fever."
+    },
+    {
+      "name": "Whooping Cough",
+      "symptoms": ["severe coughing fits", "whooping sound on inhale", "vomiting after coughing", "fatigue"],
+      "treatments": ["Antibiotics", "Supportive care", "Vaccination for contacts"],
+      "explanation": "Pertussis is suspected because of characteristic coughing fits and whooping sound."
+    },
+    {
+      "name": "Chikungunya",
+      "symptoms": ["fever", "joint pain", "headache", "muscle pain", "rash", "nausea"],
+      "treatments": ["Paracetamol", "Rest", "Fluids", "Pain relief for joints"],
+      "explanation": "Chikungunya is suspected due to fever and severe joint pain."
+    },
+    {
+      "name": "Yellow Fever",
+      "symptoms": ["fever", "chills", "muscle pain", "jaundice", "nausea", "vomiting", "fatigue"],
+      "treatments": ["Supportive care", "Fluids", "Rest", "Hospitalization if severe"],
+      "explanation": "Yellow Fever is likely due to fever, jaundice, and muscle pain."
+    },
+    {
+      "name": "Typhus",
+      "symptoms": ["fever", "headache", "rash", "muscle pain", "chills", "nausea"],
+      "treatments": ["Doxycycline or Chloramphenicol", "Hydration", "Rest"],
+      "explanation": "Typhus is suspected due to fever, rash, and headache."
+    },
+    {
+      "name": "HIV/AIDS",
+      "symptoms": ["fatigue", "weight loss", "recurrent infections", "fever", "night sweats", "swollen lymph nodes"],
+      "treatments": ["Antiretroviral therapy (ART)", "Supportive care", "Infection management"],
+      "explanation": "HIV/AIDS is suspected due to recurrent infections and weight loss."
+    },
+    {
+      "name": "Skin Infection",
+      "symptoms": ["redness", "swelling", "pain", "pus", "fever"],
+      "treatments": ["Topical or oral antibiotics", "Cleaning the affected area", "Pain relievers"],
+      "explanation": "Skin infection is likely due to redness, swelling, and pus formation."
+    },
+    {
+      "name": "Ear Infection",
+      "symptoms": ["ear pain", "hearing loss", "fluid drainage", "fever", "irritability"],
+      "treatments": ["Antibiotics if bacterial", "Pain relievers", "Warm compress"],
+      "explanation": "Ear infection is suspected due to ear pain, fluid, and fever."
+    },
+    {
+      "name": "Conjunctivitis",
+      "symptoms": ["red eyes", "itching", "tearing", "discharge", "swelling"],
+      "treatments": ["Antibiotic eye drops if bacterial", "Artificial tears", "Avoid touching eyes"],
+      "explanation": "Conjunctivitis is likely due to red eyes, itching, and discharge."
+    },
+    {
+      "name": "Bronchitis",
+      "symptoms": ["cough", "mucus production", "fatigue", "shortness of breath", "mild fever"],
+      "treatments": ["Rest", "Fluids", "Cough medicine", "Bronchodilators if needed"],
+      "explanation": "Bronchitis is suspected due to persistent cough and mucus production."
+    },
+    {
+      "name": "Asthma Attack",
+      "symptoms": ["shortness of breath", "wheezing", "chest tightness", "coughing"],
+      "treatments": ["Inhalers (bronchodilators)", "Avoid triggers", "Oxygen if severe"],
+      "explanation": "Asthma attack is indicated by wheezing, shortness of breath, and chest tightness."
+    },
+    {
+      "name": "Diabetes Mellitus",
+      "symptoms": ["excessive thirst", "frequent urination", "unexplained weight loss", "fatigue", "blurred vision"],
+      "treatments": ["Insulin therapy or oral hypoglycemics", "Diet management", "Regular exercise"],
+      "explanation": "Diabetes is suspected due to frequent urination, excessive thirst, and weight loss."
+    },
+    {
+      "name": "Hypertension",
+      "symptoms": ["headache", "dizziness", "nosebleeds", "fatigue", "blurred vision"],
+      "treatments": ["Antihypertensive medication", "Dietary changes", "Exercise", "Regular monitoring"],
+      "explanation": "Hypertension is likely due to high blood pressure symptoms such as headache and dizziness."
+    },
+    {
+      "name": "Stroke",
+      "symptoms": ["sudden numbness", "confusion", "difficulty speaking", "vision problems", "loss of balance"],
+      "treatments": ["Emergency medical care", "Thrombolytics if early", "Rehabilitation therapy"],
+      "explanation": "Stroke is suspected due to sudden neurological deficits."
+    },
+    {
+      "name": "Heart Attack",
+      "symptoms": ["chest pain", "shortness of breath", "sweating", "nausea", "lightheadedness"],
+      "treatments": ["Emergency care", "Aspirin", "Nitroglycerin", "Hospitalization"],
+      "explanation": "Heart attack is indicated by chest pain, sweating, and nausea."
+    },
+    {
+      "name": "Gastroenteritis",
+      "symptoms": ["diarrhea", "vomiting", "stomach cramps", "fever", "dehydration"],
+      "treatments": ["Hydration", "Rest", "Antiemetics", "Antibiotics if bacterial"],
+      "explanation": "Gastroenteritis is likely due to diarrhea, vomiting, and stomach cramps."
+    },
+    {
+      "name": "Appendicitis",
+      "symptoms": ["lower right abdominal pain", "nausea", "vomiting", "fever", "loss of appetite"],
+      "treatments": ["Surgical removal of appendix", "Pain management", "Antibiotics pre-surgery"],
+      "explanation": "Appendicitis is suspected due to localized abdominal pain and fever."
+    },
+    {
+      "name": "Migraine",
+      "symptoms": ["severe headache", "nausea", "vomiting", "sensitivity to light", "sensitivity to sound"],
+      "treatments": ["Pain relievers", "Rest in dark room", "Avoid triggers", "Triptans if prescribed"],
+      "explanation": "Migraine is likely due to severe headache with light and sound sensitivity."
+    },
+    {
+      "name": "Anemia",
+      "symptoms": ["fatigue", "pale skin", "shortness of breath", "dizziness", "cold hands and feet"],
+      "treatments": ["Iron supplements", "Vitamin B12 or folate if deficient", "Dietary adjustments"],
+      "explanation": "Anemia is suspected due to fatigue, pale skin, and dizziness."
+    },
+    {
+      "name": "Rheumatoid Arthritis",
+      "symptoms": ["joint pain", "swelling", "stiffness", "fatigue", "morning stiffness"],
+      "treatments": ["NSAIDs", "Disease-modifying antirheumatic drugs (DMARDs)", "Physical therapy"],
+      "explanation": "Rheumatoid Arthritis is likely due to joint pain, swelling, and morning stiffness."
+    },
+    {
+      "name": "Osteoarthritis",
+      "symptoms": ["joint pain", "stiffness", "reduced range of motion", "crepitus", "swelling"],
+      "treatments": ["Pain relievers", "Physical therapy", "Lifestyle modification", "Joint replacement in severe cases"],
+      "explanation": "Osteoarthritis is suspected due to chronic joint pain and reduced movement."
+    },
+    {
+      "name": "Alzheimer's Disease",
+      "symptoms": ["memory loss", "confusion", "difficulty performing familiar tasks", "disorientation", "changes in mood"],
+      "treatments": ["Cognitive therapy", "Supportive care", "Medications like Donepezil"],
+      "explanation": "Alzheimer's is suspected due to progressive memory loss and confusion."
+    },
+    {
+      "name": "Parkinson's Disease",
+      "symptoms": ["tremors", "slowness of movement", "rigidity", "balance problems", "speech changes"],
+      "treatments": ["Levodopa", "Physical therapy", "Occupational therapy", "Supportive care"],
+      "explanation": "Parkinson's is likely due to tremors, rigidity, and slowness of movement."
+    },
+    {
+      "name": "Epilepsy",
+      "symptoms": ["seizures", "loss of consciousness", "confusion", "staring spells", "jerking movements"],
+      "treatments": ["Antiepileptic drugs", "Avoid triggers", "Medical monitoring"],
+      "explanation": "Epilepsy is suspected due to recurrent seizures and jerking movements."
+    },
+    {
+      "name": "Hypothyroidism",
+      "symptoms": ["fatigue", "weight gain", "cold intolerance", "dry skin", "hair thinning", "constipation"],
+      "treatments": ["Levothyroxine therapy", "Regular monitoring", "Diet adjustments"],
+      "explanation": "Hypothyroidism is likely due to fatigue, weight gain, and cold intolerance."
+    },
+    {
+      "name": "Hyperthyroidism",
+      "symptoms": ["weight loss", "rapid heartbeat", "nervousness", "tremors", "heat intolerance", "sweating"],
+      "treatments": ["Antithyroid medications", "Radioactive iodine therapy", "Surgery in some cases"],
+      "explanation": "Hyperthyroidism is suspected due to rapid heartbeat, weight loss, and tremors."
+    },
+    {
+      "name": "Ebola",
+      "symptoms": ["fever", "severe headache", "muscle pain", "vomiting", "diarrhea", "bleeding", "rash"],
+      "treatments": ["Supportive care", "Fluids and electrolytes", "Medical isolation", "Experimental antiviral therapy"],
+      "explanation": "Ebola is suspected due to fever, vomiting, diarrhea, and bleeding symptoms."
+    },
+    {
+      "name": "Zika Virus",
+      "symptoms": ["fever", "rash", "joint pain", "red eyes", "headache", "muscle pain"],
+      "treatments": ["Rest", "Fluids", "Pain relievers like Paracetamol", "Avoid aspirin or NSAIDs"],
+      "explanation": "Zika virus is likely due to fever, rash, and joint pain."
+    },
+    {
+      "name": "Leishmaniasis",
+      "symptoms": ["skin ulcers", "fever", "weight loss", "swollen lymph nodes", "anemia"],
+      "treatments": ["Antimonial compounds", "Amphotericin B", "Supportive care"],
+      "explanation": "Leishmaniasis is suspected due to skin ulcers and systemic symptoms like fever and weight loss."
+    },
+    {
+      "name": "Schistosomiasis",
+      "symptoms": ["abdominal pain", "diarrhea", "blood in urine", "fatigue", "fever"],
+      "treatments": ["Praziquantel", "Symptomatic treatment", "Good sanitation practices"],
+      "explanation": "Schistosomiasis is likely due to abdominal pain, blood in urine, and diarrhea."
+    },
+    {
+      "name": "Filariasis",
+      "symptoms": ["swelling of limbs", "thickened skin", "fever", "pain", "lymphatic obstruction"],
+      "treatments": ["Diethylcarbamazine (DEC)", "Albendazole", "Supportive care"],
+      "explanation": "Filariasis is suspected due to limb swelling and lymphatic system involvement."
+    },
+    {
+      "name": "Rabies",
+      "symptoms": ["fever", "headache", "anxiety", "confusion", "agitation", "hydrophobia", "excessive salivation"],
+      "treatments": ["Immediate post-exposure prophylaxis (PEP)", "Rabies vaccine", "Rabies immunoglobulin"],
+      "explanation": "Rabies is likely due to hydrophobia, salivation, and neurological symptoms."
+    },
+    {
+      "name": "Leprosy",
+      "symptoms": ["skin lesions", "numbness", "muscle weakness", "eye problems", "ulcers"],
+      "treatments": ["Multi-drug therapy (MDT)", "Supportive care", "Physical therapy"],
+      "explanation": "Leprosy is suspected due to skin lesions and nerve damage symptoms."
+    },
+    {
+      "name": "Polio",
+      "symptoms": ["fever", "fatigue", "headache", "stiffness in neck and back", "muscle weakness"],
+      "treatments": ["Supportive care", "Physical therapy", "Vaccination for prevention"],
+      "explanation": "Polio is suspected due to muscle weakness and paralysis following fever."
+    }
+  ]
+}
